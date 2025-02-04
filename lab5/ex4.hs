@@ -1,0 +1,1 @@
+--Funktory 1: operatory fmap, (<$>) i (<$)
